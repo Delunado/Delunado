@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome to my GitHub profile! (Work In Progress)
 
-<!--
-**Delunado/Delunado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javier (Delunado), a Computer Engineer and Game Developer. I've always been passionate about programming and video games, so... **I program videogames!**
+I'm also a devotee of refactoring, code architecture and, in general, **good programming practices**.
 
-Here are some ideas to get you started:
+## Working on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- News soon!!
+
+## Learning about...
+
+- Engine
+
+## Experience and Projects.
+
+- Repos
+
+## Find me here!
+
+- [LinkedIn](https://www.linkedin.com/in/javi-camacho/)
+- [Twitter](https://twitter.com/devlunado)
+- [Telegram](https://t.me/Delunado)
