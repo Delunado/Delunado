@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile! (Work In Progress)
+### Welcome to my profile!
 
 I'm Javier (Delunado), a Computer Engineer and Game Developer. I've always been passionate about programming and video games, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture and, in general, **good programming practices**.
