@@ -21,7 +21,7 @@ These are demos of interesting mechanics and concepts I've programmed.
 
 - [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!  
 
-### Jam Games
+### Game Jams
 These are games from Game Jams I've participated, alone or in a team.
 
 - [Three Once](https://github.com/Delunado/ThreeOnce-JamGame): Three Once is a *puzzled platformer* where you play as a broken robot. This scrappy robot has to reach the door on each level, and for this purpose he can do three things, besides moving: jumping, shooting and dashing. But, as he is broken, he can only do each one only once! Using Unity.
