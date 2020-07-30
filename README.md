@@ -38,7 +38,7 @@ These are some curious and useful bots.
 
 - [This Person Does Not Exist Bot](https://github.com/Delunado/ThisPersonDoesNotExistBot): A Twitter bot which uploads images from https://thispersondoesnotexist.com/. Using C#.
 
-- [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content send to a Game Dev Resources channel. Using C#.
+- [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
 
 
 ## Find me here!
