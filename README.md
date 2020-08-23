@@ -40,6 +40,8 @@ These are some of my finished projects and past experiences.
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
 
+- [Finders!](https://github.com/Delunado/Finders): Finders! is a simulation using genetic algorithms, where the little Finders have to find a way to the exit through generations. You can build your own map to challenge the Finders!
+
 - [ALIFE](https://github.com/Delunado/ALIFE/): ALIFE is an Artificial Intelligence and Genetic Algorithms simulation, where a bunch of little creatures try to survive and breed.
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
