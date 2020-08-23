@@ -47,9 +47,9 @@ These are demos of interesting mechanics and concepts I've programmed.
 ### Game Jams
 These are games from Game Jams I've participated, alone or in a team.
 
-- [Three Once](https://github.com/Delunado/ThreeOnce-JamGame): Three Once is a *puzzled platformer* where you play as a broken robot. This scrappy robot has to reach the door on each level, and for this purpose he can do three things, besides moving: jumping, shooting and dashing. But, as he is broken, he can only do each one only once! Using Unity.
+- [Three Once](https://github.com/Delunado/ThreeOnce-JamGame): Three Once is a *puzzled platformer* where you play as a broken robot. This scrappy robot has to reach the door on each level, and for this purpose he can do three things, besides moving: jumping, shooting and dashing. But, as he is broken, he can only do each one only once! Using Unity. I did everything on this Jam.
 
-- [Keeping IT alive](https://github.com/Delunado/Keeping-IT-Alive-LudumDare46): Keeping IT alive is a *creepy procedural scroller* where you play as Jose María, a common guy. He is alone, walking on a rainy day. Then, a surprise in the sewers changes his life for the next 7 days. Using Unity.
+- [Keeping IT alive](https://github.com/Delunado/Keeping-IT-Alive-LudumDare46): Keeping IT alive is a *creepy procedural scroller* where you play as Jose María, a common guy. He is alone, walking on a rainy day. Then, a surprise in the sewers changes his life for the next 7 days. Using Unity. I was the programmer and game designer.
 
 ### Applications
 These are some finished applications I've programmed.
