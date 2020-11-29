@@ -3,9 +3,6 @@
 I'm Javier (Delunado), a Computer Engineer and Game Developer. I've always been passionate about programming and video games, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture and, in general, **good programming practices**.
 
-## Working on...
-
-- News soon!!
 
 ## Learning about...
 These are some things I'm learning about right now!
@@ -37,8 +34,23 @@ Some of my work [here](https://www.linkedin.com/feed/update/urn:li:activity:6692
 ## Experience and Projects.
 These are some of my finished projects and past experiences. 
 
+### Games
+
+- [Clownbiosis](https://delunado.itch.io/clownbiosis): In Clownbiosis you play as a little clownfish who lives in an anemone. You have to recolect food in order to feed you and your anemone. But be careful! If you don't feed it, the anemone will die. Our main objective with the game was to provide a beautiful and relaxed experience. Forget about the problems and enjoy with the incredible music and wonderful art. I worked as a solo programmer and designer, within a team of 3.
+
+- [Nino, your grandpa is nuts!](https://eufrasi0.itch.io/nino): Nino, your grandpa is nuts! is a *Turn-Based Twin-Stick Shooter* where you play as Nino. You have to go find your grandpa, who has gone nuts for reading too much books. I worked as a solo programmer, and also on game design and narrative, within a team of 3. The game is made in just 7 days!
+
+- [Keeping IT alive](https://github.com/Delunado/Keeping-IT-Alive-LudumDare46): Keeping IT alive is a *creepy procedural scroller* where you play as Jose María, a common guy. He is alone, walking on a rainy day. Then, a surprise in the sewers changes his life for the next 7 days. Using Unity. I was the main programmer and game designer, within a team of 3.
+
+- [Three Once](https://github.com/Delunado/ThreeOnce-JamGame): Three Once is a *puzzled platformer* where you play as a broken robot. This scrappy robot has to reach the door on each level, and for this purpose he can do three things, besides moving: jumping, shooting and dashing. But, as he is broken, he can only do each one only once! Using Unity. I did everything on this Jam: design, code, art and music.
+
+- [Godsus](https://github.com/Delunado/Godsus): Godsus is a *local-multiplayer fighting* game, where the players play as the spirit of two ancients God, Soleo and Lunea, who have faced each other for millennia. Each player can posses the powerful little creatures that populate the world, and use their powers against its enemy. Each creature is unique and have its own combination of powers! I was the main programmer and game designer, within a team of 4.
+
+
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
+
+- [Tribalia](https://delunado.itch.io/tribalia): Tribalia is a life simulation. The little Thumboys live in the wild nature, exploring the world, eating and fighting their brothers. And you can watch it! Now in Version 0.1.
 
 - [Finders!](https://github.com/Delunado/Finders): Finders! is a simulation using genetic algorithms, where the little Finders have to find a way to the exit through generations. You can build your own map to challenge the Finders!
 
@@ -46,16 +58,8 @@ These are demos of interesting mechanics and concepts I've programmed.
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
 
-- [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!  
+- [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!
 
-### Game Jams
-These are games from Game Jams I've participated, alone or in a team.
-
-- [Keeping IT alive](https://github.com/Delunado/Keeping-IT-Alive-LudumDare46): Keeping IT alive is a *creepy procedural scroller* where you play as Jose María, a common guy. He is alone, walking on a rainy day. Then, a surprise in the sewers changes his life for the next 7 days. Using Unity. I was the main programmer and game designer.
-
-- [Three Once](https://github.com/Delunado/ThreeOnce-JamGame): Three Once is a *puzzled platformer* where you play as a broken robot. This scrappy robot has to reach the door on each level, and for this purpose he can do three things, besides moving: jumping, shooting and dashing. But, as he is broken, he can only do each one only once! Using Unity. I did everything on this Jam: design, code, art and music.
-
-- [Godsus](https://github.com/Delunado/Godsus): Godsus is a *local-multiplayer fighting* game, where the players play as the spirit of two ancients God, Soleo and Lunea, who have faced each other for millennia. Each player can posses the powerful little creatures that populate the world, and use their powers against its enemy. Each creature is unique and have its own combination of powers! I was the main programmer and game designer.
 
 ### Applications
 These are some finished applications I've programmed.
