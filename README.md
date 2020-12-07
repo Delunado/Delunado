@@ -20,6 +20,7 @@ These are some of my finished projects and past experiences.
 
 - [Godsus](https://github.com/Delunado/Godsus): Godsus is a *local-multiplayer fighting* game, where the players play as the spirit of two ancients God, Soleo and Lunea, who have faced each other for millennia. Each player can posses the powerful little creatures that populate the world, and use their powers against its enemy. Each creature is unique and have its own combination of powers! I was the main programmer and game designer, within a team of 4.
 
+- [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer.
 
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
