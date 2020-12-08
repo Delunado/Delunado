@@ -20,7 +20,9 @@ These are some of my finished projects and past experiences.
 
 - [Godsus](https://github.com/Delunado/Godsus): Godsus is a *local-multiplayer fighting* game, where the players play as the spirit of two ancients God, Soleo and Lunea, who have faced each other for millennia. Each player can posses the powerful little creatures that populate the world, and use their powers against its enemy. Each creature is unique and have its own combination of powers! I was the main programmer and game designer, within a team of 4.
 
-- [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer.
+- [Crybots](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.CryBots): Crybots is an *arcade game, easy to play but hard to master*. The CryBots are faulty robots that can feel emotions, so they are discarded and destroyed. They need you to give them a hand (or rather a finger) to survive! CryBots is a free mobile game, playable on Android. It was my second launched game, where I worked as a programmer and game designer.
+
+- [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a free mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer.
 
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
@@ -42,6 +44,7 @@ These are some finished applications I've programmed.
 - [Game Of Life - ASCII](https://github.com/Delunado/GameOfLifeAscii): A Game Of Life version using ASCII characters and the console. Using C#.
 
 - [Random Screenshots from Prnt.sc](https://github.com/Delunado/RandomScreenshotPrnt): A program which shows random screenshots hosted on Prnt.sc, taking advantage of a web's vulnerability.
+
 
 ### Bots
 These are some curious and useful bots.
