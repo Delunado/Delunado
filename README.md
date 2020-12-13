@@ -3,7 +3,7 @@
 I'm Javier (Delunado), a Computer Engineer and Game Developer. I've always been passionate about programming and video games, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture and, in general, **good programming practices**.
 
-I'm also the organizer and moderator of the [Spain Game Devs community](https://twitter.com/spaingamedevs), a huge community of spanish developers. I have also solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), one of the biggest (if not the biggest) Spanish Game Jams, with more than 560 participants, 130 games submitted, 6000€ in prizes, etc.   
+I'm also the organizer and moderator of the [Spain Game Devs community](https://twitter.com/spaingamedevs), a huge community of hispanic developers. I have also solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), one of the biggest (if not the biggest) Spanish Game Jams, with more than 560 participants, 130 games submitted, 6000€ in prizes, etc.   
 
 ## Experience and Projects.
 These are some of my finished projects and past experiences. 
