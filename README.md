@@ -41,6 +41,8 @@ These are demos of interesting mechanics and concepts I've programmed.
 ### Applications
 These are some finished applications I've programmed.
 
+- [Generador de Historias y Argumentos](https://play.google.com/store/apps/details?id=com.TEA.Argumentapp): This is a free Android app, which can generate random stories and plots. Only in Spanish!  
+
 - [Game Of Life - ASCII](https://github.com/Delunado/GameOfLifeAscii): A Game Of Life version using ASCII characters and the console. Using C#.
 
 - [Random Screenshots from Prnt.sc](https://github.com/Delunado/RandomScreenshotPrnt): A program which shows random screenshots hosted on Prnt.sc, taking advantage of a web's vulnerability.
