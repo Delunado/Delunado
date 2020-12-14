@@ -8,6 +8,10 @@ I'm also the organizer and moderator of the [Spain Game Devs community](https://
 ## Experience and Projects.
 These are some of my finished projects and past experiences. 
 
+### Plugins
+
+-[Randomify](https://assetstore.unity.com/packages/templates/systems/randomify-fast-easy-weighted-randomizer-174978): Randomify is a blazingly fast and easy-to-use weighted randomizer for Unity, including two easy to understand example scenes. It's cheap and very useful! Read the complete documentation [here](https://github.com/Delunado/Randomify-Documentation).
+
 ### Games
 
 - [Clownbiosis](https://delunado.itch.io/clownbiosis): In Clownbiosis you play as a little clownfish who lives in an anemone. You have to recolect food in order to feed you and your anemone. But be careful! If you don't feed it, the anemone will die. Our main objective with the game was to provide a beautiful and relaxed experience. Forget about the problems and enjoy with the incredible music and wonderful art. I worked as a solo programmer and designer, within a team of 3.
