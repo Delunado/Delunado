@@ -5,12 +5,14 @@ I'm also a devotee of refactoring, code architecture and, in general, **good pro
 
 I'm also the organizer and moderator of the [Spain Game Devs community](https://twitter.com/spaingamedevs), a huge community of hispanic developers. I have also solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), one of the biggest (if not the biggest) Spanish Game Jams, with more than 560 participants, 130 games submitted, 6000€ in prizes, etc.   
 
+
 ## Experience and Projects.
-These are some of my finished projects and past experiences. 
+These are some of my finished projects, past experiences and companies I've worked for. 
 
 ### Plugins
 
--[Randomify](https://assetstore.unity.com/packages/templates/systems/randomify-fast-easy-weighted-randomizer-174978): Randomify is a blazingly fast and easy-to-use weighted randomizer for Unity, including two easy to understand example scenes. It's cheap and very useful! Read the complete documentation [here](https://github.com/Delunado/Randomify-Documentation).
+- [Randomify](https://assetstore.unity.com/packages/templates/systems/randomify-fast-easy-weighted-randomizer-174978): Randomify is a blazingly fast and easy-to-use weighted randomizer for Unity, including two easy to understand example scenes. It's cheap and very useful! Read the complete documentation [here](https://github.com/Delunado/Randomify-Documentation).
+
 
 ### Games
 
@@ -24,9 +26,10 @@ These are some of my finished projects and past experiences.
 
 - [Godsus](https://github.com/Delunado/Godsus): Godsus is a *local-multiplayer fighting* game, where the players play as the spirit of two ancients God, Soleo and Lunea, who have faced each other for millennia. Each player can posses the powerful little creatures that populate the world, and use their powers against its enemy. Each creature is unique and have its own combination of powers! I was the main programmer and game designer, within a team of 4.
 
-- [Crybots](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.CryBots): Crybots is an *arcade game, easy to play but hard to master*. The CryBots are faulty robots that can feel emotions, so they are discarded and destroyed. They need you to give them a hand (or rather a finger) to survive! CryBots is a free mobile game, playable on Android. It was my second launched game, where I worked as a programmer and game designer.
+- [Crybots](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.CryBots): Crybots is an *arcade game, easy to play but hard to master*. The CryBots are faulty robots that can feel emotions, so they are discarded and destroyed. They need you to give them a hand (or rather a finger) to survive! CryBots is a free mobile game, playable on Android. It was my second launched game, where I worked as a programmer and game designer. Game launched while working in TEA Team.
 
-- [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a free mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer.
+- [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a free mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer. Game launched while working in TEA Team.
+
 
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
@@ -45,7 +48,7 @@ These are demos of interesting mechanics and concepts I've programmed.
 ### Applications
 These are some finished applications I've programmed.
 
-- [Generador de Historias y Argumentos](https://play.google.com/store/apps/details?id=com.TEA.Argumentapp): This is a free Android app, which can generate random stories and plots. Only in Spanish!  
+- [Generador de Historias y Argumentos](https://play.google.com/store/apps/details?id=com.TEA.Argumentapp): This is a free Android app, which can generate random stories and plots. Only in Spanish! App launched while working in TEA Team.
 
 - [Game Of Life - ASCII](https://github.com/Delunado/GameOfLifeAscii): A Game Of Life version using ASCII characters and the console. Using C#.
 
@@ -58,6 +61,15 @@ These are some curious and useful bots.
 - [This Person Does Not Exist Bot](https://github.com/Delunado/ThisPersonDoesNotExistBot): A Twitter bot which uploads images from https://thispersondoesnotexist.com/. Using C#.
 
 - [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
+
+<!---
+### Studios and Companies
+These are the studios/companies I've worked for.
+
+- [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. 
+
+- [ValSin LTD](https://valsin.co.uk/):
+-->
 
 
 ## Learning about...
