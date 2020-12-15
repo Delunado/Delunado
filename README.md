@@ -62,14 +62,13 @@ These are some curious and useful bots.
 
 - [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
 
-<!---
+
 ### Studios and Companies
 These are the studios/companies I've worked for.
 
-- [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. 
+- [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. It was a small studio of 3 to 5 members. Here I worked on: "Borro", "CryBots", "Generador de Historias y Argumentos", "We need you, Borro!", as well as some Jam games.
 
-- [ValSin LTD](https://valsin.co.uk/):
--->
+- [ValSin LTD](https://valsin.co.uk/): I have worked here for a few time, working as a Gameplay Programmer in a mobile game that hasn't come out yet.
 
 
 ## Learning about...
