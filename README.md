@@ -34,6 +34,8 @@ These are some of my finished projects, past experiences and companies I've work
 ### Demos
 These are demos of interesting mechanics and concepts I've programmed.
 
+- [Two Di Char](https://github.com/Delunado/TwoDiChar): Two Di Char is an early Unity prototype for a 2D platformer shooter, including some procedural world generation. It's not a finished game, just a little prototype, including a 2D Character Controller, Aim/Shoot controller, random world gen, etc.
+
 - [Tribalia](https://delunado.itch.io/tribalia): Tribalia is a life simulation. The little Thumboys live in the wild nature, exploring the world, eating and fighting their brothers. And you can watch it! Now in Version 0.1.
 
 - [Finders!](https://github.com/Delunado/Finders): Finders! is a simulation using genetic algorithms, where the little Finders have to find a way to the exit through generations. You can build your own map to challenge the Finders!
