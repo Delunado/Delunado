@@ -1,4 +1,4 @@
-## Hi, I'm Javier (Delunado)! 👋
+# Hi, I'm Javier (Delunado)! 👋
 
 I'm a Computer Engineer and Game Developer. I've always been passionate about programming and videogames, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture, clean code and, in general, **good programming practices**.
