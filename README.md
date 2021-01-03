@@ -1,20 +1,20 @@
-### Welcome to my profile!
+## Hi, I'm Javier (Delunado)! 👋
 
-I'm Javier (Delunado), a Computer Engineer and Game Developer. I've always been passionate about programming and video games, so... **I program videogames!**
-I'm also a devotee of refactoring, code architecture and, in general, **good programming practices**.
+I'm a Computer Engineer and Game Developer. I've always been passionate about programming and videogames, so... **I program videogames!**
+I'm also a devotee of refactoring, code architecture, clean code and, in general, **good programming practices**.
 
-I'm also the organizer and moderator of the [Spain Game Devs community](https://twitter.com/spaingamedevs), a huge community of hispanic developers. I have also solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), one of the biggest (if not the biggest) Spanish Game Jams, with more than 560 participants, 130 games submitted, 6000€ in prizes, etc.   
+I'm also the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), the biggest Spanish Game Jam, with more than 560 participants, 130 games submitted, 6000€ in prizes, 25 sponsors, etc. ✌️
 
 
-## Experience and Projects.
+## Experience and Projects 🛠️
 These are some of my finished projects, past experiences and companies I've worked for. 
 
-### Plugins
+### Plugins 🔌
 
 - [Randomify](https://assetstore.unity.com/packages/templates/systems/randomify-fast-easy-weighted-randomizer-174978): Randomify is a blazingly fast and easy-to-use weighted randomizer for Unity, including two easy to understand example scenes. It's cheap and very useful! Read the complete documentation [here](https://github.com/Delunado/Randomify-Documentation).
 
 
-### Games
+### Games 🎮
 
 - [Clownbiosis](https://delunado.itch.io/clownbiosis): In Clownbiosis you play as a little clownfish who lives in an anemone. You have to recolect food in order to feed you and your anemone. But be careful! If you don't feed it, the anemone will die. Our main objective with the game was to provide a beautiful and relaxed experience. Forget about the problems and enjoy with the incredible music and wonderful art. I worked as a solo programmer and designer, within a team of 3.
 
@@ -31,7 +31,7 @@ These are some of my finished projects, past experiences and companies I've work
 - [Borro](https://play.google.com/store/apps/details?id=com.TEA.TwoEngineersAlone.Borro): Borro is a *Pang inspired side-scroller*, where you play as Borro, a little being who has lost his beloved stone. Borro is a free mobile game, playable on Android. It was my first complete game at all, launched around 2018, and I'm very proud of the result. I worked as a programmer, game designer and narrative writer. Game launched while working in TEA Team.
 
 
-### Demos
+### Demos 🧩
 These are demos of interesting mechanics and concepts I've programmed.
 
 - [Two Di Char](https://github.com/Delunado/TwoDiChar): Two Di Char is an early Unity prototype for a 2D platformer shooter, including some procedural world generation. It's not a finished game, just a little prototype, including a 2D Character Controller, Aim/Shoot controller, random world gen, etc.
@@ -47,7 +47,7 @@ These are demos of interesting mechanics and concepts I've programmed.
 - [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!
 
 
-### Applications
+### Applications 💻
 These are some finished applications I've programmed.
 
 - [Generador de Historias y Argumentos](https://play.google.com/store/apps/details?id=com.TEA.Argumentapp): This is a free Android app, which can generate random stories and plots. Only in Spanish! App launched while working in TEA Team.
@@ -57,7 +57,7 @@ These are some finished applications I've programmed.
 - [Random Screenshots from Prnt.sc](https://github.com/Delunado/RandomScreenshotPrnt): A program which shows random screenshots hosted on Prnt.sc, taking advantage of a web's vulnerability.
 
 
-### Bots
+### Bots 🤖
 These are some curious and useful bots.
 
 - [This Person Does Not Exist Bot](https://github.com/Delunado/ThisPersonDoesNotExistBot): A Twitter bot which uploads images from https://thispersondoesnotexist.com/. Using C#.
@@ -65,7 +65,7 @@ These are some curious and useful bots.
 - [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
 
 
-### Studios and Companies
+### Studios and Companies 🏭
 These are the studios/companies I've worked for.
 
 - [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. It was a small studio of 3 to 5 members. Here I worked on: "Borro", "CryBots", "Generador de Historias y Argumentos", "We need you, Borro!", as well as some Jam games.
@@ -73,10 +73,10 @@ These are the studios/companies I've worked for.
 - [ValSin LTD](https://valsin.co.uk/): I have worked here for a few time, working as a Gameplay Programmer in a mobile game that hasn't come out yet.
 
 
-## Learning about...
+## Learning about... 📚
 These are some things I'm learning about right now!
 
-### Polaris Engine
+### Polaris Engine ✴️
 After 2+ years of learning Unity and C# (as well as other languages and technologies, like C++, Python, Godot, etc.) I decided to develop my own Game Engine, for the sake of learning.
 
 So here borns **Polaris Engine**! It's a game engine developed in C++ & OpenGL. It contains three principal modules:
@@ -86,7 +86,7 @@ So here borns **Polaris Engine**! It's a game engine developed in C++ & OpenGL. 
 
 It's a work in progress, constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
 
-### Better C++
+### Better C++ ⌨️
 C++ is one of the most important programming languages, and this is also a reality in game development. So, after using it for more than 2 years in collegue, I'm reviewing and deeply studying it again.
 
 For this task I'm mainly using the book ["C++ Primer - 5th Edition"](https://www.amazon.es/C-Primer-Stanley-B-Lippman/dp/0321714113). As I complete the book recommended exercices, I upload them to [this repository](https://github.com/Delunado/CPP-Primer-Exercices).
@@ -94,13 +94,13 @@ For this task I'm mainly using the book ["C++ Primer - 5th Edition"](https://www
 Also, I daily use [HackerRank](https://www.hackerrank.com/delunado) and [Codewars](https://www.codewars.com/users/Delunado), websites where I can practice my C++ and  my problem solving skills through challenging exercices. At the same time, I'm sharpening my skills for competitive programming (one of my hobbies!).
 
 
-### VR
+### VR 👓
 I'm learning a bit about the fascinating world of Virtual Reality development, using Unity, C# and an Oculus Rift S.
 
 Some of my work [here](https://www.linkedin.com/feed/update/urn:li:activity:6692492604698849280/)!
 
 
-## Find me here.
+## Find me here 📨
 Don't hesitate on contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/javi-camacho/)
