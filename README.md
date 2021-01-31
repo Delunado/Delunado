@@ -36,15 +36,15 @@ These are some of my finished projects, past experiences and companies I've work
 ### Demos 🧩
 These are demos of interesting mechanics and concepts I've programmed.
 
-- [Two Di Char](https://github.com/Delunado/TwoDiChar): Two Di Char is an early Unity prototype for a 2D platformer shooter, including some procedural world generation. It's not a finished game, just a little prototype, including a 2D Character Controller, Aim/Shoot controller, random world gen, etc.
+- [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
 
-- [Tribalia](https://delunado.itch.io/tribalia): Tribalia is a life simulation. The little Thumboys live in the wild nature, exploring the world, eating and fighting their brothers. And you can watch it! Now in Version 0.1.
+- [Two Di Char](https://github.com/Delunado/TwoDiChar): Two Di Char is an early Unity prototype for a 2D platformer shooter, including some procedural world generation. It's not a finished game, just a little prototype, including a 2D Character Controller, Aim/Shoot controller, random world gen, etc.
 
 - [Finders!](https://github.com/Delunado/Finders): Finders! is a simulation using genetic algorithms, where the little Finders have to find a way to the exit through generations. You can build your own map to challenge the Finders!
 
-- [ALIFE](https://github.com/Delunado/ALIFE/): ALIFE is an Artificial Intelligence and Genetic Algorithms simulation, where a bunch of little creatures try to survive and breed.
+- [Tribalia](https://delunado.itch.io/tribalia): Tribalia is a life simulation. The little Thumboys live in the wild nature, exploring the world, eating and fighting their brothers. And you can watch it! Now in Version 0.1.
 
-- [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
+- [ALIFE](https://github.com/Delunado/ALIFE/): ALIFE is an Artificial Intelligence and Genetic Algorithms simulation, where a bunch of little creatures try to survive and breed.
 
 - [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!
 
