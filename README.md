@@ -3,8 +3,8 @@
 I'm a Software Engineer and Game Developer. I've always been passionate about programming and videogames, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture, clean code and, in general, **good programming practices**.
 
-I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), the biggest spanish Game Jam ever made, with more than 560 participants, 130 games submitted, 6000€ in prizes, 25 sponsors, etc. ✌️
-This Jam won the DeVuego prize to Best 2020 Game Jam!
+I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), the biggest spanish Game Jam ever made, with more than 560 participants, 130 games submitted, 6000€ in prizes, 25 sponsors, etc. This Jam won the DeVuego prize to Best 2020 Game Jam! ✌️
+
 
 ## Experience and Projects 🛠️
 These are some of my finished projects, past experiences and companies I've worked for. 
