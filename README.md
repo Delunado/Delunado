@@ -5,6 +5,19 @@ I'm also a devotee of refactoring, code architecture, clean code and, in general
 
 I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), the biggest spanish Game Jam ever made, with more than 560 participants, 130 games submitted, 6000€ in prizes, 25 sponsors, etc. This Jam won the DeVuego prize to Best 2020 Game Jam! ✌️
 
+<br>
+
+## Currently working on...
+
+### Polaris Engine ✴️
+After 3+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
+
+So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch for the sake of learning. It's being build using C++ & OpenGL.
+The game engine contains several modules and submodules, as well as a visual editor.
+
+It's a work in progress, long term project, constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
+
+<br>
 
 ## Experience and Projects 🛠️
 These are some of my finished projects, past experiences and companies I've worked for. 
@@ -74,19 +87,10 @@ These are the studios/companies I've worked for.
 
 - [ValSin LTD](https://valsin.co.uk/): I have worked here for a few time, working as a Gameplay Programmer in a mobile game that hasn't come out yet.
 
+<br>
 
 ## Learning about... 📚
 These are some things I'm learning about right now!
-
-### Polaris Engine ✴️
-After 2+ years of learning Unity and C# (as well as other languages and technologies, like C++, Python, Godot, etc.) I decided to develop my own Game Engine, for the sake of learning.
-
-So here borns **Polaris Engine**! It's a game engine developed in C++ & OpenGL. It contains three principal modules:
-- Urano, the Math module.
-- Thea, the Rendering module.
-- Gea, the Physics module.
-
-It's a work in progress, constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
 
 ### Better C++ ⌨️
 C++ is one of the most important programming languages, and this is also a reality in game development. So, after using it for more than 2 years in collegue, I'm reviewing and deeply studying it again.
@@ -95,12 +99,12 @@ For this task I'm mainly using the book ["C++ Primer - 5th Edition"](https://www
 
 Also, I daily use [HackerRank](https://www.hackerrank.com/delunado) and [Codewars](https://www.codewars.com/users/Delunado), websites where I can practice my C++ and  my problem solving skills through challenging exercices. At the same time, I'm sharpening my skills for competitive programming (one of my hobbies!).
 
-
 ### VR 👓
 I'm learning a bit about the fascinating world of Virtual Reality development, using Unity, C# and an Oculus Rift S.
 
-Some of my work [here](https://www.linkedin.com/feed/update/urn:li:activity:6692492604698849280/)!
+Some of my experiments [here](https://www.linkedin.com/feed/update/urn:li:activity:6692492604698849280/)!
 
+<br>
 
 ## Find me here 📨
 Don't hesitate on contact me!
