@@ -12,7 +12,7 @@ I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamede
 ### Polaris Engine ✴️
 After 3+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
 
-So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch for the sake of learning. It's being build using C++ & OpenGL.
+So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch, using C++ & OpenGL.
 The game engine contains several modules and submodules, as well as a visual editor.
 
 It's a work in progress, long term project, constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
