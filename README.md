@@ -31,6 +31,8 @@ These are some of my finished projects, past experiences and companies I've work
 
 ### Games 🎮
 
+- [Ciclosys](https://delunado.itch.io/ciclosys): Ciclosys is a *minimalist action* game. Life is like a day. Life is contrast. Use an inteligent energy ball to attack and protect yourself. I worked as a solo programmer and game designer, in a team of 3. Made in 8 days for a Game Jam.
+
 - [Clownbiosis](https://delunado.itch.io/clownbiosis): In Clownbiosis you play as a little clownfish who lives in an anemone. You have to recolect food in order to feed you and your anemone. But be careful! If you don't feed it, the anemone will die. Our main objective with the game was to provide a beautiful and relaxed experience. Forget about the problems and enjoy with the incredible music and wonderful art. I worked as a solo programmer and designer, within a team of 3.
 
 - [Nino, your grandpa is nuts!](https://eufrasi0.itch.io/nino): Nino, your grandpa is nuts! is a *Turn-Based Twin-Stick Shooter* where you play as Nino. You have to go find your grandpa, who has gone nuts for reading too much books. I worked as a solo programmer, and also on game design and narrative, within a team of 3. The game is made in just 7 days!
