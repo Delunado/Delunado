@@ -75,11 +75,17 @@ These are some finished applications I've programmed.
 
 
 ### Bots 🤖
-These are some curious and useful bots.
+These are some curious and useful bots I've made.
 
 - [This Person Does Not Exist Bot](https://github.com/Delunado/ThisPersonDoesNotExistBot): A Twitter bot which uploads images from https://thispersondoesnotexist.com/. Using C#.
 
 - [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
+
+
+### Open-Source Contributions 👨‍💻
+These are my contributions to other open-source projects.
+
+- [Cassiopeia](https://github.com/Delunado/cassiopeia): Cassiopeia is a music manager, where you can include your own music files, create playlist, link your Spotify account, etc. I have mainly contribute with refactoring and code cleaning.
 
 
 ### Studios and Companies 🏭
