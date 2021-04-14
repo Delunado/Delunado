@@ -31,6 +31,8 @@ These are some of my finished projects, past experiences and companies I've work
 
 ### Games 🎮
 
+- [Necrosity](https://delunado.itch.io/necrosity): Necrosity is a *think-fast & act-fast* game. You are a delivering worker of Amabone, the delivering company of Necro City. Search for the next client and **shoot him** his package! Winner as Best Game on the Z-Jam 2021.
+
 - [Ciclosys](https://delunado.itch.io/ciclosys): Ciclosys is a *minimalist action* game. Life is like a day. Life is contrast. Use an inteligent energy ball to attack and protect yourself. I worked as a solo programmer and game designer, in a team of 3. Made in 8 days for a Game Jam.
 
 - [Clownbiosis](https://delunado.itch.io/clownbiosis): In Clownbiosis you play as a little clownfish who lives in an anemone. You have to recolect food in order to feed you and your anemone. But be careful! If you don't feed it, the anemone will die. Our main objective with the game was to provide a beautiful and relaxed experience. Forget about the problems and enjoy with the incredible music and wonderful art. I worked as a solo programmer and designer, within a team of 3.
