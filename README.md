@@ -31,6 +31,8 @@ These are some of my finished projects, past experiences and companies I've work
 
 ### Games 🎮
 
+- [Gyroglyph](https://delunado.itch.io/gyroglyph): Gyroglyph is a *physics-based puzzle* where you control the *map*, not the protagonist! Little Beetle is stuck inside Tutankhamon's treasure. Help him to escape from coin to coin and be free again!
+
 - [Necrosity](https://delunado.itch.io/necrosity): Necrosity is a *think-fast & act-fast* game. You are a delivering worker of Amabone, the delivering company of Necro City. Search for the next client and **shoot him** his package! Winner as Best Game on the Z-Jam 2021.
 
 - [Ciclosys](https://delunado.itch.io/ciclosys): Ciclosys is a *minimalist action* game. Life is like a day. Life is contrast. Use an inteligent energy ball to attack and protect yourself. I worked as a solo programmer and game designer, in a team of 3. Made in 8 days for a Game Jam.
@@ -52,6 +54,8 @@ These are some of my finished projects, past experiences and companies I've work
 
 ### Demos 🧩
 These are demos of interesting mechanics and concepts I've programmed.
+
+- [We need you, Borro! Demo](https://delunado.itch.io/we-need-you-borro): "We need you, Borro!" is an adventure game, inspired by the classic Pang. Borro has lost his beloved stone, his only friend and love. The search for his stone takes him to far, far away places... This is an adventure full of interdimensional travels and terrifying furry bouncers!
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
 
