@@ -14,7 +14,7 @@ Bigger Than Me is a *graphic (mis)adventure point & click* about Max, a young bo
 
 
 ### Polaris Engine ✴️
-After 3+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
+After 4+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
 
 So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch, using C++ & OpenGL.
 The game engine contains several modules and submodules, as well as a visual editor.
