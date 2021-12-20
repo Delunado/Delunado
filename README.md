@@ -3,11 +3,15 @@
 I'm a Software Engineer and Game Developer. I've always been passionate about programming and videogames, so... **I program videogames!**
 I'm also a devotee of refactoring, code architecture, clean code and, in general, **good programming practices**.
 
-I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii), the biggest spanish Game Jam ever made, with more than 560 participants, 130 games submitted, 6000€ in prizes, 25 sponsors, etc. This Jam won the DeVuego prize to Best 2020 Game Jam! ✌️
+I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamedevs) 🇪🇸, a huge community of hispanic developers. I have solo organized the [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii) & [Spain Game Devs Jam III](https://itch.io/jam/spain-game-devs-jam-iii), two of the biggest spanish Game Jams ever made, with 1.000~ participants, 220~ games submitted, 16.000€~ in prizes, 65~ sponsors & streamers, etc. The SGDJamII won the DeVuego prize to Best 2020 Game Jam! ✌️
 
 <br>
 
 ## Currently working on... 🧭
+
+### Bigger Than Me 😵
+Bigger Than Me is a *graphic (mis)adventure point & click* about Max, a young boy with a peculiar problem: he becomes giant when he hears the word 'FUTURE'. I'm working in this project as a solo programmer, using Unity/C# and related technologies. You can [play the demo here](https://deadpixelgames.itch.io/bigger-than-me), even in your browser with no download!
+
 
 ### Polaris Engine ✴️
 After 3+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
@@ -15,7 +19,7 @@ After 3+ years of learning and using Unity/C# I decided to develop my own Game E
 So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch, using C++ & OpenGL.
 The game engine contains several modules and submodules, as well as a visual editor.
 
-It's a work in progress, long term project, constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
+It's a work in progress, long term project, slowly but constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
 
 <br>
 
