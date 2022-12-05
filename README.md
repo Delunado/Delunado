@@ -10,16 +10,15 @@ I'm the admin of the [Spain Game Devs community](https://twitter.com/spaingamede
 ## Currently working on... 🧭
 
 ### Bigger Than Me 😵
-Bigger Than Me is a *graphic (mis)adventure point & click* about Max, a young boy with a peculiar problem: he becomes giant when he hears the word 'FUTURE'. I'm working in this project as a solo programmer, using Unity/C# and related technologies. You can [play the demo here](https://deadpixelgames.itch.io/bigger-than-me), even in your browser with no download!
+Bigger Than Me is a *graphic (mis)adventure point & click* about Max, a young boy with a peculiar problem: he becomes giant when he hears the word 'FUTURE'. I'm working in this project as a solo programmer in a team of 3, using Unity/C# and related technologies. You can [play the demo here](https://deadpixelgames.itch.io/bigger-than-me), even in your browser with no download!
 
 
-### Polaris Engine ✴️
-After 4+ years of learning and using Unity/C# I decided to develop my own Game Engine, for the sake of learning.
+### Learning Rust 🦀
+After 5+ years of learning and working with Unity/C# + developing simple C++ projects like 3D rendereres, I decided to try out the shiny new language Rust. Right now, I'm:
 
-So here borns **Polaris Engine**! It is an early-stage 2D/3D Game Engine created from scratch, using C++ & OpenGL.
-The game engine contains several modules and submodules, as well as a visual editor.
+- Participating in Advent of Code 2022 ([repo here](https://github.com/Delunado/Advent-Of-Code-22-Rust.git)). 
+- Developing a small roguelike using Bevy, called RustySpace ([repo here](https://github.com/Delunado/Rustyspace)). 
 
-It's a work in progress, long term project, slowly but constantly evolving. You can take a look to the Engine repo [here](https://github.com/Delunado/PolarisEngine)! 
 
 <br>
 
@@ -128,5 +127,5 @@ Some of my experiments [here](https://www.linkedin.com/feed/update/urn:li:activi
 Don't hesitate on contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/javi-camacho/)
-- [Twitter](https://twitter.com/devlunado)
+- [Twitter](https://twitter.com/Delunad0)
 - [Telegram](https://t.me/Delunado)
