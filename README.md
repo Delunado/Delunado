@@ -34,9 +34,13 @@ Here I'm adding some interesting open-sourced projects I have on GitHub. It's a 
 
 - [Unity Utils](https://github.com/Delunado/Unity-Utils): This is a repository with my own pieces of reusable code for Unity. Some components and tools I've written along the years, and used in several projects. Feel free to use and upgrade them! This repository is in continuous growing.
 
-### Experiments & Demos 🎮
+### Experiments, Games & Demos 🎮
+
+- [Polaris Engine](https://github.com/Delunado/PolarisEngine): A 3D custom game engine for Windows. Working on it for the sake of learning, now rendering models and allowing basic logic! 
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
+
+- [Basic Neural Network](https://github.com/Delunado/NeuralNetworkBasics): A basic neural network implemented on Unity. It allows for point classification with some customization!
 
 - [Two Di Char](https://github.com/Delunado/TwoDiChar): Two Di Char is an early Unity prototype for a 2D platformer shooter, including some procedural world generation. It's not a finished game, just a little prototype, including a 2D Character Controller, Aim/Shoot controller, random world gen, etc.
 
