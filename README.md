@@ -1,11 +1,11 @@
 # Hi, I'm Javier "Delunado"! 👋
 
-Master of Code, Lover of Games, I conjure pixel wonders through **programming** flames! <br>
+Master of Code, Conjurer of Games, invoking pixel wonders by **programming** flames! <br>
 **Clean code, clever refactoring, neat architecture** – the key to my magic. <br>
-**Solving problems** is the best game there is! <br>
+**Solving problems** is the best game out there! <br>
 
 Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedevs)** 🇪🇸, a huge community of hispanic game developers.
-I love organizing Game Jams like...
+<br> I love organizing Game Jams like...
 
 - [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii) - 566 people, 129 projects
 - [Spain Game Devs Jam III](https://itch.io/jam/spain-game-devs-jam-iii) - 434 people, 88 projects
