@@ -24,7 +24,7 @@ Not info yet about that. But come back very soon to check it out!
 
 ### Stick to the Plan 🐶
 
-Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the programmer & producer in a team of 3, using Unity/C# and related technologies. You can [play the demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
+Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the programmer & producer, using Unity/C# and related technologies. You can [get the game and play a demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
 
 <br>
 
