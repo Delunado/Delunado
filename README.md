@@ -1,8 +1,8 @@
 # Hi, I'm Javier "Delunado"! 👋
 
-Master of Code, Conjurer of Games, invoking pixel wonders by **programming** flames! <br>
-**Clean code, clever refactoring, neat architecture** – the key to my magic. <br>
-**Solving problems** is the best game out there! <br>
+🧙 Master of Code, Conjurer of Games, invoking pixel wonders by **programming** flames! <br>
+**Clean code, clever refactoring, neat architecture** – the key to magic. <br>
+**Solving problems** is the best game out there! <br> 🧙
 
 Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedevs)** 🇪🇸, a huge community of hispanic game developers.
 <br> I love organizing Game Jams like...
@@ -10,11 +10,17 @@ Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedev
 - [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii) - 566 people, 129 projects
 - [Spain Game Devs Jam III](https://itch.io/jam/spain-game-devs-jam-iii) - 434 people, 88 projects
 - [Indie Spain Jam](https://itch.io/jam/indie-spain-jam) - 843 people, 172 projects
-- [Indie Spain Jam 2023](https://itch.io/jam/indie-spain-jam-23) - Coming on September!
+- [Indie Spain Jam 2023](https://itch.io/jam/indie-spain-jam-23) - 806 people, 178 projects
+- [Mermelada Jam #1](https://itch.io/jam/mermelada-jam) - 269 people, 64 projects
 
 <br>
 
 ## Currently working on... 🧭
+
+### Not announced project! 🤫
+
+Not info yet about that. But come back very soon to check it out!
+
 
 ### Stick to the Plan 🐶
 
@@ -24,7 +30,7 @@ Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! 
 
 ## Experience and Projects 🛠️
 
-**\~To view more of my professional projects and experience, please go to my brand new webpage: [delunado.com](https://delunado.com)!\~**
+**\~To view more of my professional projects and experience, please go to my webpage: [delunado.com](https://delunado.com)!\~**
 
 <br>
 
@@ -72,7 +78,9 @@ These are my contributions to other open-source projects.
 
 These are the studios/companies I've worked for.
 
-- [Odders Lab](http://odderslab.com/): Working here as a VR Game Programmer in a big team. I've learned a lot about tooling, working with big development teams, porting games and of course VR!. Worked on games like "Les Mills Bodycombat" or "Chess Club".
+- [Dead Pixel Tales](https://www.deadpixeltales.com/): I have been working here for more than 2 years as the writing of this. I'm 1/3 of this little indie studio, trying to make cool meaningful games for the world! I'm the lead programmer and technical director, but as in every indie team, I also do marketing, production and other little tasks.
+
+- [Odders Lab](http://odderslab.com/): Worked here as a VR Game Programmer in a big team. I've learned a lot about tooling, working with big development teams, porting games and of course VR!. Worked on games like "Les Mills Bodycombat" (*Best Oculus App 2022*) or "Chess Club".
 
 - [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. It was a small studio of 3 to 5 members. Here I worked on: "Borro", "CryBots", "Generador de Historias y Argumentos", "We need you, Borro!", as well as some Jam games.
 
