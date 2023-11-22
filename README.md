@@ -42,6 +42,8 @@ Here I'm adding some interesting open-sourced projects I have on GitHub. It's a 
 
 ### Experiments, Games & Demos 🎮
 
+- [Monkeyroo](https://github.com/Delunado/Evolutionary-Fighting): A Godot/C# written fighting simulation where two entities with different movements use Genetic Algorithms to learn how to fight each other. Project made for practicing AI techniques. 
+
 - [Polaris Engine](https://github.com/Delunado/PolarisEngine): A 3D custom game engine for Windows. Working on it for the sake of learning, now rendering models and allowing basic logic! 
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
