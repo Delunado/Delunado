@@ -2,7 +2,7 @@
 
 🧙 Master of Code, Conjurer of Games, invoking pixel wonders by **programming** flames! <br>
 **Clean code, clever refactoring, neat architecture** – the key to magic. <br>
-**Solving problems** is the best game out there! <br> 🧙
+**Solving problems** is the best game out there! 🧙 <br>
 
 Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedevs)** 🇪🇸, a huge community of hispanic game developers.
 <br> I love organizing Game Jams like...
