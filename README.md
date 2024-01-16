@@ -15,12 +15,7 @@ Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedev
 
 <br>
 
-## Currently working on... 🧭
-
-### Not announced project! 🤫
-
-Not info yet about that. But come back very soon to check it out!
-
+## Experience and Projects 🛠️
 
 ### Stick to the Plan 🐶
 
@@ -28,11 +23,9 @@ Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! 
 
 <br>
 
-## Experience and Projects 🛠️
-
 **\~To view more of my professional projects and experience, please go to my webpage: [delunado.com](https://delunado.com)!\~**
 
-<br>
+<br> <br>
 
 Here I'm adding some interesting open-sourced projects I have on GitHub. It's a pity that I can't share code of commercial projects!
 
