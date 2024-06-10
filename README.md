@@ -1,7 +1,7 @@
 # Hi, I'm Javier "Delunado"! 👋
 
-🧙 Master of Code, Conjurer of Games, invoking pixel wonders by **programming** flames! <br>
-**Clean code, clever refactoring, neat architecture** – the key to magic. <br>
+🧙 Master of code, conjurer of games, invoking pixel wonders by **programming** flames! <br>
+**Extreme Programming, Clever Refactoring, Team Playing** – the key to magic. <br>
 **Solving problems** is the best game out there! 🧙 <br>
 
 Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedevs)** 🇪🇸, a huge community of hispanic game developers.
@@ -66,24 +66,23 @@ These are my contributions to other open-source projects.
 
 These are the studios/companies I've worked for.
 
-- [Dead Pixel Tales](https://www.deadpixeltales.com/): I have been working here for more than 2 years as the writing of this. I'm 1/3 of this little indie studio, trying to make cool meaningful games for the world! I'm the lead programmer and technical director, but as in every indie team, I also do marketing, production and other little tasks.
+- [Under the Bed Games](https://underthebedgames.com/) - Working here since 2024. Making horror adventures like [Tales from Candleforth](https://store.steampowered.com/app/2200410/Tales_from_Candleforth/)! Lead programmer in a team of 10~. 
+
+- [Dead Pixel Tales](https://www.deadpixeltales.com/): Worked here for more 2.5 years. I was 1/3 of this little indie studio, making cool meaningful games for the world! I was lead programmer and technical director, but as in every indie team, I also did non-programming related tasks like production, marketing and more.
 
 - [Odders Lab](http://odderslab.com/): Worked here as a VR Game Programmer in a big team. I've learned a lot about tooling, working with big development teams, porting games and of course VR!. Worked on games like "Les Mills Bodycombat" (*Best Oculus App 2022*) or "Chess Club".
 
 - [TEA Team](https://www.teateamgames.com/): I have worked here for 2 years, as a programmer, game designer and community manager. It was a small studio of 3 to 5 members. Here I worked on: "Borro", "CryBots", "Generador de Historias y Argumentos", "We need you, Borro!", as well as some Jam games.
 
-- [ValSin LTD](https://valsin.co.uk/): I have worked here for a few time, working as a Gameplay Programmer in a mobile game that hasn't come out yet.
-
 <br>
 
 ## Learning about... 📚
 
-### Rust 🦀
+### Game Engine programming 🏜️
 
-After 5+ years of learning and working with Unity/C# + developing simple C++ projects like 3D rendereres, I decided to try out the shiny new language Rust. Right now, I'm:
+After 6+ years of learning and working with Unity/C# + developing simple C++ projects like 3D renderers, I started a 2D-focused game engine, **Dune Engine**. You can check the project here:
 
-- Solving Advent of Code problems ([repo here](https://github.com/Delunado/Advent-Of-Code-22-Rust.git)).
-- Developing a small roguelike using Bevy, called RustySpace ([repo here](https://github.com/Delunado/Rustyspace)).
+- [Dune Engine repo](https://github.com/Delunado/Dune-Engine.git).
 
 <br>
 
