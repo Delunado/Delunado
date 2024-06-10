@@ -16,18 +16,11 @@ Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedev
 <br>
 
 ## Experience and Projects 🛠️
-
-### Stick to the Plan 🐶
-
-Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the programmer & producer, using Unity/C# and related technologies. You can [get the game and play a demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
-
-<br>
-
 **\~To view more of my professional projects and experience, please go to my webpage: [delunado.com](https://delunado.com)!\~**
 
-<br> <br>
+### Stick to the Plan 🐶 - Commercial Game
 
-Here I'm adding some interesting open-sourced projects I have on GitHub. It's a pity that I can't share code of commercial projects!
+Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the programmer & producer, using Unity/C# and related technologies. You can [get the game and play a demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
 
 ### Plugins 🔌
 
