@@ -1,10 +1,10 @@
 # Hi, I'm Javier "Delunado"! 👋
 
-🧙 Master of code, conjurer of games, invoking pixel wonders by **programming** flames! <br>
-**Extreme Programming, Clever Refactoring, Team Playing** – the key to magic. <br>
-**Solving problems** is the best game out there! 🧙 <br>
+I love programming games! <br>
+**Extreme Programming, Team Playing, Iterative Development** – the key to enjoy my work! <br>
+**Solving problems** and **creating cool experiences** is the best game out there! 🧙 <br>
 
-Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedevs)** 🇪🇸, a huge community of hispanic game developers.
+Proud director of **[Spain Game Devs community](https://bsky.app/profile/spaingamedevs.bsky.social)** 🇪🇸, a huge community of hispanic game developers.
 <br> I love organizing Game Jams like...
 
 - [Spain Game Devs Jam II](https://itch.io/jam/spain-game-devs-jam-ii) - 566 people, 129 projects
@@ -12,25 +12,25 @@ Proud director of **[Spain Game Devs community](https://twitter.com/spaingamedev
 - [Indie Spain Jam](https://itch.io/jam/indie-spain-jam) - 843 people, 172 projects
 - [Indie Spain Jam 2023](https://itch.io/jam/indie-spain-jam-23) - 806 people, 178 projects
 - [Mermelada Jam #1](https://itch.io/jam/mermelada-jam) - 269 people, 64 projects
+- [Mermelada Jam #2](https://itch.io/jam/mermelada-jam-2) - 247 people, 57 projects
+- [Mermelada Jam #3](https://itch.io/jam/mermelada-jam-3) - 237 people, 39 projects
 
 <br>
 
 ## Experience and Projects 🛠️
-**\~To view more of my professional projects and experience, please go to my webpage: [delunado.com](https://delunado.com)!\~**
+#### ***\~To view more of my professional projects and experience, please go to my webpage: [delunado.com](https://delunado.com)!\~***
+---
 
-### Stick to the Plan 🐶 - Commercial Game
+### Stick to the Plan 🐶 - Indie Commercial Game
 
-Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the programmer & producer, using Unity/C# and related technologies. You can [get the game and play a demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
+Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! Working as the main programmer & producer, using Unity/C# and related technologies. You can [get the game and play a demo here](https://store.steampowered.com/app/2334280/Stick_to_the_Plan/).
 
-### Plugins 🔌
-
-- [Unity Utils](https://github.com/Delunado/Unity-Utils): This is a repository with my own pieces of reusable code for Unity. Some components and tools I've written along the years, and used in several projects. Feel free to use and upgrade them! This repository is in continuous growing.
 
 ### Experiments, Games & Demos 🎮
 
-- [Monkeyroo](https://github.com/Delunado/Evolutionary-Fighting): A Godot/C# written fighting simulation where two entities with different movements use Genetic Algorithms to learn how to fight each other. Project made for practicing AI techniques. 
+- [Monkeyroo](https://github.com/Delunado/Evolutionary-Fighting): A Godot/C# written fighting simulation where two entities with different movements use Genetic Algorithms to learn how to fight each other. Project made for practicing AI techniques.
 
-- [Polaris Engine](https://github.com/Delunado/PolarisEngine): A 3D custom game engine for Windows. Working on it for the sake of learning, now rendering models and allowing basic logic! 
+- [Polaris Engine](https://github.com/Delunado/PolarisEngine): A 3D custom game renderer for Windows. Working on it for the sake of learning, now rendering models and allowing basic logic! 
 
 - [Star Wars - Force Demo](https://github.com/Delunado/Star-Wars-Force-Demo): A demo of some "Star Wars"-like powers. You can use telekinesis to move and push objects! Using Unity.
 
@@ -44,17 +44,13 @@ Stick to the Plan is a _cozy puzzle game_ about a dog who loves loooong sticks! 
 
 - [MinecraftIGV](https://github.com/Delunado/MinecraftIGV): A Minecraft-inspired project using C++ & OpenGL. You can move around, create and destroy blocks... It was a very interesting degree task!
 
-### Applications 💻
-
-- [Game Of Life - ASCII](https://github.com/Delunado/GameOfLifeAscii): A Game Of Life version using ASCII characters and the console. Using C#.
-
-- [Random Screenshots from Prnt.sc](https://github.com/Delunado/RandomScreenshotPrnt): A program which shows random screenshots hosted on Prnt.sc, taking advantage of a web's vulnerability.
 
 ### Bots 🤖
 
 - [This Person Does Not Exist Bot](https://github.com/Delunado/ThisPersonDoesNotExistBot): A Twitter bot which uploads images from https://thispersondoesnotexist.com/. Using C#.
 
 - [Game Dev Resources Bot](https://github.com/Delunado/GameDevResourcesBot): A Telegram bot which manages content sent to a Game Dev Resources channel. Using C#.
+
 
 ### Open-Source Contributions 👨‍💻
 
@@ -66,7 +62,7 @@ These are my contributions to other open-source projects.
 
 These are the studios/companies I've worked for.
 
-- [Under the Bed Games](https://underthebedgames.com/) - Working here since 2024. Making horror adventures like [Tales from Candleforth](https://store.steampowered.com/app/2200410/Tales_from_Candleforth/)! Lead programmer in a team of 10~. 
+- [Under the Bed Games](https://underthebedgames.com/) - Worked here here during all 2024. Making horror adventures like [Tales from Candleforth](https://store.steampowered.com/app/2200410/Tales_from_Candleforth/)! Lead programmer in a team of 10~. 
 
 - [Dead Pixel Tales](https://www.deadpixeltales.com/): Worked here for more 2.5 years. I was 1/3 of this little indie studio, making cool meaningful games for the world! I was lead programmer and technical director, but as in every indie team, I also did non-programming related tasks like production, marketing and more.
 
@@ -91,5 +87,5 @@ After 6+ years of learning and working with Unity/C# + developing simple C++ pro
 Don't hesitate on contacting me!
 
 - [LinkedIn](https://www.linkedin.com/in/javi-camacho/)
-- [Twitter](https://twitter.com/Delunad0)
+- [BlueSky](https://bsky.app/profile/delunado.com)
 - [Telegram](https://t.me/Delunado)
